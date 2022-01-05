@@ -82,9 +82,23 @@ button{
     margin-left: 10%;
     padding-left: 40px;
     padding-bottom: 20px;
-    
 }
 .develop-items img{
     width: 70%;
     margin-left: 10%;
+}
+#title-position{
+    text-align: center;
+}
+#knowthyself{
+    display: flex;
+    background-color: rgb(222, 240, 186);
+    margin-bottom: 40px;
+    margin-left: 10%;
+    padding-left: 40px;
+    padding-bottom: 20px;
+}
+#knowthyself img{
+    width: 70%;
+    margin-left: 10%; 
 }
