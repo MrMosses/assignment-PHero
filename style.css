@@ -80,8 +80,11 @@ button{
     background-color: rgb(243, 241, 239);
     margin-bottom: 40px;
     margin-left: 10%;
+    margin-right: 15px;
     padding-left: 40px;
     padding-bottom: 20px;
+    border-radius: 20px;
+
 }
 .develop-items img{
     width: 70%;
@@ -95,10 +98,23 @@ button{
     background-color: rgb(222, 240, 186);
     margin-bottom: 40px;
     margin-left: 10%;
+    margin-right: 15px;
     padding-left: 40px;
     padding-bottom: 20px;
+    border-radius: 20px;
 }
 #knowthyself img{
     width: 70%;
     margin-left: 10%; 
+}
+footer{
+    background-color: rgb(51, 49, 49);
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 0;
+    height: 140px;
+    padding-top: 5px;
+    padding-bottom: 20px; 
+    
 }
